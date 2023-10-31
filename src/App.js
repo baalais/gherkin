@@ -33,23 +33,23 @@ function App() {
             </tr>
             <tr>
                 <td>given</td>
-                <td>*</td>
+                <td>Kad</td>
             </tr>
             <tr>
                 <td>when</td>
-                <td>*</td>
+                <td>Ja</td>
             </tr>
             <tr>
                 <td>then</td>
-                <td>*</td>
+                <td>Tad</td>
             </tr>
             <tr>
                 <td>and</td>
-                <td>*</td>
+                <td>Un</td>
             </tr>
             <tr>
                 <td>but</td>
-                <td>*</td>
+                <td>Bet</td>
             </tr>
             <tr>
                 <td>rule</td>
